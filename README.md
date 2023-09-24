@@ -5,4 +5,4 @@
 
 <p align="center">這裡包含了一些奇怪的小程式。 </p>
 <p align="center">可能還會有一些突然想到就寫出來的小程式@@ 🫡</p>
-![](https://komarev.com/ghpvc/?username=CIIS-repo&color=grey&style=flat)
+
