@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/davgo0103">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E6%88%91%E5%96%9C%E6%AD%A1%E6%95%B4%E5%A4%A9%E5%9D%90%E5%9C%A8%E9%9B%BB%E8%85%A6%E5%89%8D%E9%9D%A2~;%E5%85%94%E5%AD%90%E7%9C%9F%E5%A5%BD%E6%91%B8+%F0%9F%90%B0; Java+%7C+Python+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E6%88%91%E5%96%9C%E6%AD%A1%E6%95%B4%E5%A4%A9%E5%9D%90%E5%9C%A8%E9%9B%BB%E8%85%A6%E5%89%8D%E9%9D%A2~;%E5%85%94%E5%AD%90%E7%9C%9F%E5%A5%BD%E6%91%B8+%F0%9F%90%B0;JJava+%7C+Python+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
