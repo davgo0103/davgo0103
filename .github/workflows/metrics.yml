@@ -22,4 +22,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          debug: yes
+          repositories_batch: 20
