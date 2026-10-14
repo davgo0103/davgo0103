@@ -34,3 +34,5 @@ jobs:
           config_timezone: Asia/Taipei
           repositories_affiliations: owner, collaborator, organization_member
           repositories_batch: 20
+          repositories: 300
+          base_indepth: yes
