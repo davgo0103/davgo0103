@@ -25,9 +25,9 @@
   <img src="https://raw.githubusercontent.com/davgo0103/davgo0103/main/metrics.languages.svg" />
 </p>
 
-<h3 align="center">📊 GitHub 統計</h3>
+<h3 align="center">📊 GitHub 統計（含私人 repo 與組織）</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davgo0103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://raw.githubusercontent.com/davgo0103/davgo0103/main/metrics.stats.svg" />
 </p>
 
 <p align="center">
