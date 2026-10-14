@@ -20,12 +20,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,vue,html,css,cs,nodejs,react,git,linux&theme=dark" />
 </p>
 
-<h3 align="center">💻 常用語言（含私人 repo）</h3>
+<h3 align="center">💻 常用語言</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/davgo0103/davgo0103/main/metrics.languages.svg" />
 </p>
 
-<h3 align="center">📊 GitHub 統計（含私人 repo 與組織）</h3>
+<h3 align="center">📊 GitHub 統計</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/davgo0103/davgo0103/main/metrics.stats.svg" />
 </p>
