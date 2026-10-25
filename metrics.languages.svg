@@ -15,19 +15,19 @@
 <text x="25" y="35" class="title">Most Used Languages</text>
 <mask id="bar"><rect x="25" y="52" width="330" height="8" rx="4" fill="#fff"/></mask>
 <g mask="url(#bar)" class="grow">
-<rect x="25.00" y="52" width="127.96" height="8" fill="#3572A5"/>
-<rect x="152.46" y="52" width="44.31" height="8" fill="#4F5D95"/>
-<rect x="196.27" y="52" width="41.29" height="8" fill="#b07219"/>
-<rect x="237.06" y="52" width="34.42" height="8" fill="#e34c26"/>
-<rect x="270.98" y="52" width="29.37" height="8" fill="#f1e05a"/>
-<rect x="299.85" y="52" width="20.43" height="8" fill="#41b883"/>
-<rect x="319.78" y="52" width="20.08" height="8" fill="#c6538c"/>
-<rect x="339.36" y="52" width="16.14" height="8" fill="#663399"/>
+<rect x="25.00" y="52" width="129.56" height="8" fill="#3572A5"/>
+<rect x="154.06" y="52" width="43.94" height="8" fill="#4F5D95"/>
+<rect x="197.51" y="52" width="40.95" height="8" fill="#b07219"/>
+<rect x="237.96" y="52" width="34.22" height="8" fill="#e34c26"/>
+<rect x="271.68" y="52" width="29.13" height="8" fill="#f1e05a"/>
+<rect x="300.30" y="52" width="20.27" height="8" fill="#41b883"/>
+<rect x="320.07" y="52" width="19.92" height="8" fill="#c6538c"/>
+<rect x="339.49" y="52" width="16.01" height="8" fill="#663399"/>
 </g>
-<g class="row" style="animation-delay:300ms" transform="translate(25,88)"><circle cx="5" cy="-5" r="5" fill="#3572A5"/><text x="16" class="label" style="fill:#a9b1d6">Python <tspan class="value" style="font-weight:400">38.6%</tspan></text></g>
-<g class="row" style="animation-delay:400ms" transform="translate(200,88)"><circle cx="5" cy="-5" r="5" fill="#4F5D95"/><text x="16" class="label" style="fill:#a9b1d6">PHP <tspan class="value" style="font-weight:400">13.3%</tspan></text></g>
-<g class="row" style="animation-delay:500ms" transform="translate(25,112)"><circle cx="5" cy="-5" r="5" fill="#b07219"/><text x="16" class="label" style="fill:#a9b1d6">Java <tspan class="value" style="font-weight:400">12.4%</tspan></text></g>
-<g class="row" style="animation-delay:600ms" transform="translate(200,112)"><circle cx="5" cy="-5" r="5" fill="#e34c26"/><text x="16" class="label" style="fill:#a9b1d6">HTML <tspan class="value" style="font-weight:400">10.3%</tspan></text></g>
+<g class="row" style="animation-delay:300ms" transform="translate(25,88)"><circle cx="5" cy="-5" r="5" fill="#3572A5"/><text x="16" class="label" style="fill:#a9b1d6">Python <tspan class="value" style="font-weight:400">39.1%</tspan></text></g>
+<g class="row" style="animation-delay:400ms" transform="translate(200,88)"><circle cx="5" cy="-5" r="5" fill="#4F5D95"/><text x="16" class="label" style="fill:#a9b1d6">PHP <tspan class="value" style="font-weight:400">13.2%</tspan></text></g>
+<g class="row" style="animation-delay:500ms" transform="translate(25,112)"><circle cx="5" cy="-5" r="5" fill="#b07219"/><text x="16" class="label" style="fill:#a9b1d6">Java <tspan class="value" style="font-weight:400">12.3%</tspan></text></g>
+<g class="row" style="animation-delay:600ms" transform="translate(200,112)"><circle cx="5" cy="-5" r="5" fill="#e34c26"/><text x="16" class="label" style="fill:#a9b1d6">HTML <tspan class="value" style="font-weight:400">10.2%</tspan></text></g>
 <g class="row" style="animation-delay:700ms" transform="translate(25,136)"><circle cx="5" cy="-5" r="5" fill="#f1e05a"/><text x="16" class="label" style="fill:#a9b1d6">JavaScript <tspan class="value" style="font-weight:400">8.7%</tspan></text></g>
 <g class="row" style="animation-delay:800ms" transform="translate(200,136)"><circle cx="5" cy="-5" r="5" fill="#41b883"/><text x="16" class="label" style="fill:#a9b1d6">Vue <tspan class="value" style="font-weight:400">6.0%</tspan></text></g>
 <g class="row" style="animation-delay:900ms" transform="translate(25,160)"><circle cx="5" cy="-5" r="5" fill="#c6538c"/><text x="16" class="label" style="fill:#a9b1d6">SCSS <tspan class="value" style="font-weight:400">5.9%</tspan></text></g>
