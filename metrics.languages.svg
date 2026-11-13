@@ -15,14 +15,14 @@
 <text x="25" y="35" class="title">Most Used Languages</text>
 <mask id="bar"><rect x="25" y="52" width="330" height="8" rx="4" fill="#fff"/></mask>
 <g mask="url(#bar)" class="grow">
-<rect x="25.00" y="52" width="121.12" height="8" fill="#3572A5"/>
-<rect x="145.62" y="52" width="51.07" height="8" fill="#e34c26"/>
-<rect x="196.19" y="52" width="39.31" height="8" fill="#4F5D95"/>
-<rect x="235.00" y="52" width="36.39" height="8" fill="#b07219"/>
-<rect x="270.89" y="52" width="26.88" height="8" fill="#f1e05a"/>
-<rect x="297.27" y="52" width="22.36" height="8" fill="#c6538c"/>
-<rect x="319.13" y="52" width="19.40" height="8" fill="#41b883"/>
-<rect x="338.03" y="52" width="17.47" height="8" fill="#663399"/>
+<rect x="25.00" y="52" width="121.27" height="8" fill="#3572A5"/>
+<rect x="145.77" y="52" width="51.03" height="8" fill="#e34c26"/>
+<rect x="196.30" y="52" width="39.28" height="8" fill="#4F5D95"/>
+<rect x="235.08" y="52" width="36.36" height="8" fill="#b07219"/>
+<rect x="270.94" y="52" width="26.88" height="8" fill="#f1e05a"/>
+<rect x="297.32" y="52" width="22.34" height="8" fill="#c6538c"/>
+<rect x="319.16" y="52" width="19.39" height="8" fill="#41b883"/>
+<rect x="338.05" y="52" width="17.45" height="8" fill="#663399"/>
 </g>
 <g class="row" style="animation-delay:300ms" transform="translate(25,88)"><circle cx="5" cy="-5" r="5" fill="#3572A5"/><text x="16" class="label" style="fill:#a9b1d6">Python <tspan class="value" style="font-weight:400">36.6%</tspan></text></g>
 <g class="row" style="animation-delay:400ms" transform="translate(200,88)"><circle cx="5" cy="-5" r="5" fill="#e34c26"/><text x="16" class="label" style="fill:#a9b1d6">HTML <tspan class="value" style="font-weight:400">15.3%</tspan></text></g>
