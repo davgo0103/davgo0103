@@ -15,21 +15,21 @@
 <text x="25" y="35" class="title">Most Used Languages</text>
 <mask id="bar"><rect x="25" y="52" width="330" height="8" rx="4" fill="#fff"/></mask>
 <g mask="url(#bar)" class="grow">
-<rect x="25.00" y="52" width="120.19" height="8" fill="#3572A5"/>
-<rect x="144.69" y="52" width="49.17" height="8" fill="#b07219"/>
-<rect x="193.37" y="52" width="47.61" height="8" fill="#e34c26"/>
-<rect x="240.48" y="52" width="36.56" height="8" fill="#4F5D95"/>
-<rect x="276.54" y="52" width="25.19" height="8" fill="#f1e05a"/>
-<rect x="301.23" y="52" width="20.80" height="8" fill="#c6538c"/>
-<rect x="321.52" y="52" width="18.06" height="8" fill="#41b883"/>
+<rect x="25.00" y="52" width="120.22" height="8" fill="#3572A5"/>
+<rect x="144.72" y="52" width="49.23" height="8" fill="#b07219"/>
+<rect x="193.45" y="52" width="47.60" height="8" fill="#e34c26"/>
+<rect x="240.55" y="52" width="36.55" height="8" fill="#4F5D95"/>
+<rect x="276.61" y="52" width="25.13" height="8" fill="#f1e05a"/>
+<rect x="301.24" y="52" width="20.79" height="8" fill="#c6538c"/>
+<rect x="321.53" y="52" width="18.07" height="8" fill="#41b883"/>
 <rect x="339.09" y="52" width="16.41" height="8" fill="#663399"/>
 </g>
 <g class="row" style="animation-delay:300ms" transform="translate(25,88)"><circle cx="5" cy="-5" r="5" fill="#3572A5"/><text x="16" class="label" style="fill:#a9b1d6">Python <tspan class="value" style="font-weight:400">36.3%</tspan></text></g>
-<g class="row" style="animation-delay:400ms" transform="translate(200,88)"><circle cx="5" cy="-5" r="5" fill="#b07219"/><text x="16" class="label" style="fill:#a9b1d6">Java <tspan class="value" style="font-weight:400">14.7%</tspan></text></g>
+<g class="row" style="animation-delay:400ms" transform="translate(200,88)"><circle cx="5" cy="-5" r="5" fill="#b07219"/><text x="16" class="label" style="fill:#a9b1d6">Java <tspan class="value" style="font-weight:400">14.8%</tspan></text></g>
 <g class="row" style="animation-delay:500ms" transform="translate(25,112)"><circle cx="5" cy="-5" r="5" fill="#e34c26"/><text x="16" class="label" style="fill:#a9b1d6">HTML <tspan class="value" style="font-weight:400">14.3%</tspan></text></g>
 <g class="row" style="animation-delay:600ms" transform="translate(200,112)"><circle cx="5" cy="-5" r="5" fill="#4F5D95"/><text x="16" class="label" style="fill:#a9b1d6">PHP <tspan class="value" style="font-weight:400">10.9%</tspan></text></g>
 <g class="row" style="animation-delay:700ms" transform="translate(25,136)"><circle cx="5" cy="-5" r="5" fill="#f1e05a"/><text x="16" class="label" style="fill:#a9b1d6">JavaScript <tspan class="value" style="font-weight:400">7.5%</tspan></text></g>
-<g class="row" style="animation-delay:800ms" transform="translate(200,136)"><circle cx="5" cy="-5" r="5" fill="#c6538c"/><text x="16" class="label" style="fill:#a9b1d6">SCSS <tspan class="value" style="font-weight:400">6.2%</tspan></text></g>
+<g class="row" style="animation-delay:800ms" transform="translate(200,136)"><circle cx="5" cy="-5" r="5" fill="#c6538c"/><text x="16" class="label" style="fill:#a9b1d6">SCSS <tspan class="value" style="font-weight:400">6.1%</tspan></text></g>
 <g class="row" style="animation-delay:900ms" transform="translate(25,160)"><circle cx="5" cy="-5" r="5" fill="#41b883"/><text x="16" class="label" style="fill:#a9b1d6">Vue <tspan class="value" style="font-weight:400">5.3%</tspan></text></g>
 <g class="row" style="animation-delay:1000ms" transform="translate(200,160)"><circle cx="5" cy="-5" r="5" fill="#663399"/><text x="16" class="label" style="fill:#a9b1d6">CSS <tspan class="value" style="font-weight:400">4.8%</tspan></text></g>
 </svg>
